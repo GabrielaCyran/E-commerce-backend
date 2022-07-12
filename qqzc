@@ -1,0 +1,11 @@
+[33mcommit b9edc94d0cac616bd4c8b1f8613809f571e1579c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Dominik Buczek <bdominoo@gmail.com>
+Date:   Tue Jul 12 00:10:52 2022 +0200
+
+    fix app url
+
+[33mcommit fa582d50ec99778711c159b62ce2fa5df629cc58[m
+Author: Dominik Buczek <bdominoo@gmail.com>
+Date:   Mon Jul 11 22:44:48 2022 +0200
+
+    initial commit
